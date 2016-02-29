@@ -4,4 +4,4 @@
 
 <img src='./images/signalStrength.png'>
 
-<img src='./images/terrain.ping'>
+<img src='./images/terrain.png'>
