@@ -1,6 +1,6 @@
 # dho-rssi
 
-<img src='./data/signalStrength.png'>
+<img src='./images/signalStrength.png'>
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/p-v-o-s/dho-rssi)
 
