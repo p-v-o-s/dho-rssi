@@ -1,7 +1,5 @@
 
-<img src='./images/signalStrength.png' width=300>
-
-<img src='./images/terrain.png' width=300>
+<img src='./images/signalStrength.png' width=300> <img src='./images/terrain.png' width=300>
 
 
 # Overview
